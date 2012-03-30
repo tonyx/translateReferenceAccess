@@ -1,0 +1,3710 @@
+package test.org.tonyx.translateReference;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: tonyx
+ * Date: 30/03/12
+ * Time: 10.30
+ * To change this template use File | Settings | File Templates.
+ */
+public class TranslateReferenceStubbedContent {
+    public String getContent() {
+        return content;
+    }
+    private String content = "\n" +
+
+            "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n" +
+            "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://opengraphprotocol.org/schema/\">\n" +
+            "<head>\n" +
+            "    <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/>\n" +
+
+
+            "<script type=\"text/javascript\">\n" +
+            "    appCoreUserid = \"\";\n" +
+            "    appCoreUsername = \"\";\n" +
+            "    gslFormatV3 = '';\n" +
+            "    dictionaryConsolidatedCookieList=new Array('dTlb','fC','rh','translangpair','regHP','dyn','freqcp');\n" +
+            "    dictionaryConsolidatedCookieName='dcc';\n" +
+            "    \n" +
+            "    \n" +
+            "    isSerpRedesign=false;\n" +
+            "    \n" +
+            "    var wordDynDomain = \"dynamo.dictionary.com\";\n" +
+            "    var collapseLuna = \"\";\n" +
+            "    var hotwordSerpRD = false;\n" +
+            "    var currentCookieDomain = \"reference.com\";\n" +
+            "    var proxiedApp = \"\";\n" +
+            "    var category = \"\";\n" +
+            "    var rsAnsRef = \"false\";\n" +
+            "    var rsAnsRefHP = \"false\";\n" +
+            "    var rsAnsRefCat = \"false\";\n" +
+            "    var rsSeoRef = \"\";\n" +
+            "    var rsMotifPage = \"false\";\n" +
+            "    var rsResultDomain = \"translate.reference.com\";\n" +
+            "    var rsSpellSuggest = \"false\";\n" +
+            "    var rsView = \"translate\";\n" +
+            "    var rsAnsRefDomain = \"ask.reference.com\";\n" +
+            "    var daisyClkServerEnable = \"true\";\n" +
+            "    var rsPageKey  = \"\";\n" +
+            "    var wdstrip = \"true\";\n" +
+            "    var rsHomePage = \"false\";\n" +
+            "    var currentTakoView = \"translate_serp\";\n" +
+            "    var appcoredicdomain = \"app.dictionary.com\";\n" +
+            "    var appcoreServerssoLogin = \"app.dictionary.com/login\";\n" +
+            "    var quizClosesrcUrl = \"http://sp.dictionary.com/en/i/dictionary/newserp/quiz_close.png\";\n" +
+            "    var likeThisWord = \"\";\n" +
+            "    var isSerpRedesignLD2 = \"false\";\n" +
+            "    var isSpellSuggestLD2 = \"\";\n" +
+            "    var enableGooglePlusOne = \"true\";\n" +
+            "    var queryURLEncoded = \"\";\n" +
+            "    var pageNameForFB = \"translate_serp\";\n" +
+            "    if(!a10) {var a10 = {};}\n" +
+            "</script>\n" +
+
+            "    \n" +
+
+
+
+            "    <META HTTP-EQUIV=\"imagetoolbar\" CONTENT=\"no\">\n" +
+            "    <link rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"http://translate.reference.com/opensearch_desc.xml\" title=\"Dictionary.com\" />\n" +
+            "    \n" +
+            "    \n" +
+            "    <link rel=\"shortcut icon\" href=\"http://sp.dictionary.com/en/i/dictionary/newserp/translate_favicon.ico\"/>\n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+            "    \n" +
+            "</title>\n" +
+            "    \n" +
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "            \n" +
+
+            "            \n" +
+
+            "            \n" +
+
+            "            \n" +
+            "                <meta name=\"description\" content=\"Translation of  at Translate.Reference.com with free online translator and multilingual dictionary for 30 foreign languages.\" />\n" +
+
+            "                <meta name=\"keywords\" content=\", translations, translation of, translate, free translator, online translator, definitions, dictionary.com\" />\n" +
+            "            \n" +
+            "        \n" +
+            "    \n" +
+
+
+
+            " <link rel=\"canonical\" href=\"http://translate.reference.com/translate?query=hello&src=en&dst=it\"/>\n" +
+
+
+            "    \n" +
+            "        <link rel=\"stylesheet\" href=\"http://sp.dictionary.com/dictstatic/css/gsl/dictionary/v2/sponsoredListing.css?ver=145\" type=\"text/css\"/>\n" +
+            "    \n" +
+            "    \n" +
+
+            "    \n" +
+            "    \n" +
+            "        <link href=\"http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css\" rel=\"stylesheet\" type=\"text/css\"/>\n" +
+            "        \n" +
+
+            "    \n" +
+            "        <link rel=\"stylesheet\" href=\"http://translate.reference.com/dcss/dictionary/translatestyles_c.r88062.css\" type=\"text/css\">\n" +
+            "    \n" +
+            "    \n" +
+            "        <link rel=\"stylesheet\" href=\"http://sp.dictionary.com/dictionary/homepage/css/global_hp_n.css?ver=145\" type=\"text/css\"/>\n" +
+            "    \n" +
+
+            "<style type=\"text/css\">\n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    #wrp{background-position:0 -533px;}\n" +
+            "    /* fix for search button for headerLDs*/\n" +
+            "    #hdr button{background-position:-488px -48px;\n" +
+            "   }\n" +
+            "    #hdr button:hover{background-position:-584px -48px;\n" +
+            "   }\n" +
+            "    #hdr span{color:#6699CC;}\n" +
+            "    /*fix for footer for HeaderLDs*/\n" +
+            "    #fotr {background-position:-11px -554px;\n" +
+            "    }\n" +
+            "     .brftr {\n" +
+            "             margin-right:40px;}\n" +
+            "    \n" +
+            "    \n" +
+            "    #hdr input{color:#000000;}\n" +
+            "</style>\n" +
+
+
+            "<script type=\"text/javascript\">\n" +
+            "    var _daisyClickTrackingEnabled =  'true';\n" +
+            "    var _daisyClickTrackingStatus =  'on';\n" +
+
+            "     // Daisy Click Event Object\n" +
+            "    \n" +
+            "    \n" +
+            "    var DaisyInfo = window.DaisyInfo || {};\n" +
+            "    DaisyInfo.clickURL = \"app.reference.com\";\n" +
+            "    DaisyInfo.pickObjConversion = function(po) { return \"\"+h(po.lk)+\"?clksite=trans&clkquery=EFA6BE8481526D44566109A430CFA2BF&clkpage=translate_serp&clkimpr=T3Vu410hZslU3su9&clkld=0&clkref=http%3A%2F%2Ftranslate.reference.com%2F&clken=\"+h(po.en)+\"&clkord=\"+h(po.io)+\"&clkblk=\"+h(po.b)+\"&clktemp=\"+h(po.tp)+\"&clkmod=\"+h(po.m)+\"&clkitem=\"+enc(h(po.pt))+\"&clkdest=\"+h(po.u);}; \n" +
+            "    DaisyInfo.nonRedirectPickObjConversion =    function(po) { return \"?site=trans&queryId=EFA6BE8481526D44566109A430CFA2BF&pageName=translate_serp&impressionId=T3Vu410hZslU3su9&ldid=0&referrer=http%3A%2F%2Ftranslate.reference.com%2F&engine=\"+h(po.en)+\"&ordinal=\"+h(po.io)+\"&block=\"+h(po.b)+\"&template=\"+h(po.tp)+\"&module=\"+h(po.m)+\"&item=\"+enc(h(po.pt))+\"&linkId=\"+h(po.lk);};   \n" +
+            "</script>\n" +
+
+
+
+            "<script type=\"text/javascript\">\n" +
+            "     var  _pickFunction = 'daisyPK';\n" +
+            "    \n" +
+            "    \n" +
+            "    var _baseUrl = \"http://translate.reference.com\";\n" +
+
+            "    var _query = \"\";\n" +
+            "    var _channel = \"web\";\n" +
+            "    var _currentChannel = \"trans\";\n" +
+            "    var _path = \"translate\";\n" +
+            "    var _disableSS = false;  \n" +
+            "    var _debugEnabled = false;\n" +
+
+            "    var _sharedSpritedic = \"http://sp.dictionary.com/en/i/dictionary/shared6.png\";\n" +
+            "    var _limitedDeployID = \"\";\n" +
+
+            "    \n" +
+            "    var _dicDomain = \"dictionary.reference.com\";\n" +
+            "    var _theDomain = \"thesaurus.reference.com\";\n" +
+            "    var _encDomain = \"www.reference.com\";\n" +
+            "    var _transDomain = \"translate.reference.com\";\n" +
+            "     if(!a10) {var a10 = {};}\n" +
+            "</script>\n" +
+
+
+            "    <script src=\"http://translate.reference.com/inc/js/dictionary/v4/dicOther_c.r88013.js\" type=\"text/javascript\"></script>\n" +
+            "    <script type=\"text/javascript\">if(typeof($.noConflict) == 'function'){$.noConflict();}var $j=jQuery;</script>\n" +
+
+            "    \n" +
+            "        <script src=\"http://sp.dictionary.com/dictionary/homepage/js/dicnewserpConsolLatest_c.js\"></script>\n" +
+            "        <script type=\"text/javascript\">$.noConflict();var $j=jQuery;</script>\n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        <style type=\"text/css\">\n" +
+            "#tpnv {\n" +
+            "right:0;\n" +
+            "}\t\t\n" +
+            ".tp{\n" +
+            "top:0;\n" +
+            "}\n" +
+            "</style>\n" +
+            "<script type=\"text/javascript\">\t\n" +
+            "fancybox_init = function() {};\n" +
+            "</script>\n" +
+            "    \n" +
+
+
+            "   <script type=\"text/javascript\">\n" +
+            "       var _gaq = _gaq || [];\n" +
+            "       _gaq.push(['_setAccount', 'UA-4036279-9']);\n" +
+            "       _gaq.push(['_setDomainName','.reference.com']);\n" +
+            "       _gaq.push(['_setAllowHash',false]);\n" +
+            "       _gaq.push(['_setAllowLinker',true]);\n" +
+            "       \n" +
+            "       \n" +
+            "       _gaq.push(['_setSiteSpeedSampleRate', 5]);//Sample rate is set to 5%(5% of users sitespeed is measuresd)\n" +
+            "       _gaq.push(['_trackPageview']);\n" +
+            "       if(false){\n" +
+            "           if(false){\n" +
+            "               _gaq.push(['_trackEvent','midSerpAd','triggered']);\n" +
+            "           }else {\n" +
+            "               _gaq.push(['_trackEvent','midSerpAd','not triggered']);\n" +
+            "           }\n" +
+            "       }\n" +
+            "       (function() {\n" +
+            "           var ga = document.createElement('script');\n" +
+            "           ga.type = 'text/javascript'; ga.async = true;\n" +
+            "           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com'+ '/ga.js';\n" +
+            "           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n" +
+            "       })();\n" +
+            "   </script>\n" +
+            "       \n" +
+            "       \n" +
+
+
+            "    \n" +
+
+            "    <!-- Quantcast Tag, part 1 -->\n" +
+            "    <script type=\"text/javascript\">\n" +
+            "        var _qevents = _qevents || [];\n" +
+            "        (function() {\n" +
+            "            var elem = document.createElement('script');\n" +
+            "            elem.src = (document.location.protocol == \"https:\" ? \"https://secure\" : \"http://edge\") + \".quantserve.com/quant.js\";\n" +
+            "            elem.async = true;\n" +
+            "            elem.type = \"text/javascript\";\n" +
+            "            var scpt = document.getElementsByTagName('script')[0];\n" +
+            "            scpt.parentNode.insertBefore(elem, scpt);\n" +
+            "        })();\n" +
+            "    </script>\n" +
+            "</head>\n" +
+
+            "<body id=\"promo_serpTo\" class=\"trans_serpto\" onload=\"initpage();\">\n" +
+
+
+
+
+            "<div id=\"wrp\">\n" +
+            "    <div id=\"hdr\">\n" +
+            "        <div id=\"tpnv\">\n" +
+            "            \n" +
+            "                \n" +
+            "                \n" +
+            "                    <a id=\"regLink\" rel=\"nofollow\" href=\"http://app.dictionary.com/signup?source=header_trans&logindest=\">Sign Up</a>\n" +
+            "                    \n" +
+            "                    <a id=\"loginHeaderLink\" rel=\"nofollow\" href=\"http://app.dictionary.com/login?source=header_trans&logindest=\">Log In</a>\n" +
+            "                \n" +
+            "            \n" +
+            "        </div>\n" +
+            "        \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "                <a href=\"http://translate.reference.com\" class=\"diclogo\" onmousedown=\"return pk(this,{lk:'yg487x',en:'dkscr',io:'0',b:'dtop',tp:'hdr',m:'dkscr'})\"><img alt=\"Dictionary.com\" src=\"http://sp.dictionary.com/dictionary/homepage/ImagesNew/trans_logo.png\" style=\"margin-top:4px\"  height=\"42px\" width=\"180px\" /></a>\n" +
+            "            \n" +
+            "        \n" +
+            "        <form action=\"/trans\" onsubmit=\"return formcheck();\">\n" +
+            "            <input size=\"40\" value=\"\" id=\"q\"  autoComplete=\"off\" type=\"text\" onkeypress=\"make_blank();\" name=\"q\" onclick=\"make_blank();\" onFocus=\"javascript:this.select();\"/>\n" +
+            "            <button type=\"submit\" value=\"\"></button>\n" +
+            "        </form>\n" +
+
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    </div>\n" +
+            "</div>\n" +
+
+            "<div id=\"contouter\">\n" +
+            "    <div id=\"flyout\" style=\"display: none;\">\n" +
+            "        <div class=\"flyt\" id=\"fyt\" onmousedown=\"promourl();\"><span class=\"txt\">Introducing a cool<br/>new way to learn!</span><div class=\"gear\"></div></div>\n" +
+            "    </div>\n" +
+            "    <div id=\"cwrp\">\n" +
+            "        <div id=\"hlin\">\n" +
+            "            \n" +
+            "            <a  href=\"http://dictionary.reference.com/\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'tqks0v',en:'dtab',io:'0',b:'nav',tp:'hdr',m:'dtab'})\">Dictionary</a>\n" +
+            "            <a  href=\"http://thesaurus.com/\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'qxnxzj',en:'ttab',io:'0',b:'nav',tp:'hdr',m:'ttab'})\">Thesaurus</a>\n" +
+            "            <a id=\"dyn\" href=\"http://dynamo.dictionary.com/?mp_source=ihzyvr\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'ihzyvr',en:'dytab',io:'0',b:'nav',tp:'hdr',m:'dytab'})\">Word Dynamo<span class=\"bnew\"></span></a>\n" +
+            "            <a href=\"http://quotes.dictionary.com/\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'wtcrk4',en:'qtab',io:'0',b:'nav',tp:'hdr',m:'qtab'})\">Quotes</a>\n" +
+            "            <a  href=\"http://www.reference.com/\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'rn6y6h',en:'rtab',io:'0',b:'nav',tp:'hdr',m:'rtab'})\">Reference</a>\n" +
+            "            <a class=\"sel\" href=\"http://translate.reference.com/translate\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'s6ljc3',en:'trtab',io:'0',b:'nav',tp:'hdr',m:'trtab'})\">Translator</a>\n" +
+            "            \n" +
+            "            <a href=\"http://spanish.dictionary.com/\" onmousedown=\"ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'kun0fl',en:'sptab',io:'0',b:'nav',tp:'hdr',m:'sptab'})\" style=\"border:none\">Spanish</a>\n" +
+            "            \n" +
+            "         </div>\n" +
+            "        <div id=\"snv\">\n" +
+            "                    \n" +
+            "                    \n" +
+            "        </div>\n" +
+            "        \n" +
+            "        <div id=\"de\">\n" +
+
+
+
+            "<script type=\"text/javascript\">\n" +
+
+
+            "</script>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "<script type=\"text/javascript\">\n" +
+            "var _todaysDate= \"March 30, 2012\";\n" +
+            "ask.dict.loggedIn=false;\n" +
+            "var hotwordSerpRD = false;\n" +
+
+            "headerlinkUpdates();\n" +
+            "var _sourcepg =\"trans_translate\";\n" +
+            "var _countryState = \"MI_IT\";\n" +
+            "var _translatemaxlength =\"140\";\n" +
+
+            "_translatemaxlength =\"140\";\n" +
+
+            "var _footerShown=false;\n" +
+            "var pagekey = \"translate_google\";\n" +
+            "var takeOverEnabled = false;\n" +
+
+            "</script>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "  \n" +
+
+            "<script>\n" +
+            "    \n" +
+            "</script>\n" +
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "                <div id=\"dmain\">\n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+            "<style type=\"text/css\">\n" +
+            "    .rcH {\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "            background:url('http://sp.dictionary.com/en/i/dictionary/v2_1/header_trans.png') no-repeat 0 0;\n" +
+            "        \n" +
+            "    \n" +
+            "    }\n" +
+            "    #snv {\n" +
+            "    height: 0px;\n" +
+            "    }\n" +
+            "    #dmain{\n" +
+            "    margin-top: 15px;\n" +
+            "    overflow:hidden;\n" +
+            "    }\n" +
+            "    \n" +
+            "    #hdr #q {\n" +
+            "        background: url(\"http://sp.dictionary.com/dictionary/homepage/images/search_box_text.png\") no-repeat scroll -806px -138px #FFFFFF;\n" +
+            "    }\n" +
+            "    #hdr input {\n" +
+            "    left: 20px;\n" +
+            "    top: 10px;\n" +
+            "    }\n" +
+            "    \n" +
+            "</style>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "<script >\n" +
+            "    function askFormSubmit(){\n" +
+            "        if(document.forms['lraskform']){\n" +
+            "            document.forms['lraskform'].submit();\n" +
+            "        }\n" +
+            "    }\n" +
+            "</script>\n" +
+
+            "<center id=\"hptoNewV4\">\n" +
+            "<div class=\"dc dw\" id=\"cntntxt\">\n" +
+
+
+
+
+
+
+
+
+
+
+
+            "<div class=\"srs\">\n" +
+            "<div class=\"sr sw\" id=\"ss_slf\">\n" +
+            " \n" +
+
+
+
+
+
+
+
+            " \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+
+            "    \n" +
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "     \n" +
+            "      \n" +
+            "     \n" +
+            "     \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        <div class=\"rc\">\n" +
+            "            <div class=\"rh\"><span>Popular Searches</span></div>\n" +
+            "            <div class=\"ric\">\n" +
+            "                \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "<div id=\"sM\" class=\"ric cTr\">\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s0\"><a href=\"http://ask.reference.com/related/Reasons+to+Study+Abroad?qsrc=2892&l=dir&o=10601\" >Reasons to study ...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s1\"><a href=\"http://ask.reference.com/related/Benefits+of+Studying+Abroad?qsrc=2892&l=dir&o=10601\" >Benefits of study...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s2\"><a href=\"http://ask.reference.com/related/Study+Abroad+Programs?qsrc=2892&l=dir&o=10601\" >Study abroad prog...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s3\"><a href=\"http://ask.reference.com/related/Study+Abroad+Scholarships?qsrc=2892&l=dir&o=10601\" >Study abroad scho...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s4\"><a href=\"http://ask.reference.com/related/Study+Abroad+Statistics?qsrc=2892&l=dir&o=10601\" >Study abroad stat...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s5\"><a href=\"http://ask.reference.com/related/International+Studies+Abroad?qsrc=2892&l=dir&o=10601\" >International stu...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s6\"><a href=\"http://ask.reference.com/related/Study+Abroad+in+Australia?qsrc=2892&l=dir&o=10601\" >Study abroad in a...</a></div>\n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "         \n" +
+            "        \n" +
+            "        \n" +
+            "        <div id=\"s7\"><a href=\"http://ask.reference.com/related/Samples+of+Study+Abroad+Essays?qsrc=2892&l=dir&o=10601\" >Samples of study ...</a></div>\n" +
+            "    \n" +
+            "</div>\n" +
+            "<script>pklogRelated(\"sM\",{lk:'r2xli6',en:'drs',io:'7',b:'rlt',tp:'pl',m:'drs'},\"s\");</script>\n" +
+
+
+            "                \n" +
+            "                \n" +
+            "            </div>\n" +
+            "        </div>\n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    <div id='dcomad_160x600' class='sykscraper-ad lra' >\n" +
+            "            \n" +
+
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+
+            "        \n" +
+            "    </div>\n" +
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        <script type=\"text/javascript\">\n" +
+
+
+            "            var queryURLEncoded = escape(\"\");\n" +
+            "            var adpath = \"5480.iac.translate/search\";\n" +
+            "            var uag = \"\";\n" +
+            "            var uoc = \"Other\";\n" +
+            "            var uge = \"\";\n" +
+            "            var category = \"\";\n" +
+            "            var site = \"5480.iac.translate\";\n" +
+
+
+            "           \n" +
+            "        </script>\n" +
+            "    \n" +
+
+
+
+
+            "</div>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+            "<div class=\"cr cw\" id=\"ss_strt\">\n" +
+
+
+
+
+            "    \n" +
+            "    <div id=\"diduno\"></div>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    <div id='dcomad_728x90_0' class='banner-ad bnr' >\n" +
+            "            \n" +
+
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+
+            "        \n" +
+            "    </div>\n" +
+
+            "    \n" +
+            "    \n" +
+
+
+
+
+            "<div class=\"con\">\n" +
+
+            "    \n" +
+            "     \n" +
+
+
+
+            "<div class=\"conrs\">\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "        \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+            "<div id=\"contentall_v3\" class=\"contentall_v3_size\">    \n" +
+            "    <div class=\"contentright_v3 contentright_v3_size\" > \n" +
+            "        <div class=\"trans_head_wrapper\">\n" +
+            "            <div id=\"tr_text\">\n" +
+            "                <span class=\"tr_titleStyle\">Dictionary.com <b>Translator</b></span>\n" +
+            "                <span class=\"like\">\n" +
+            "                 <span class=\"hdfb\">\n" +
+            "                     <iframe src=\"//www.facebook.com/plugins/like.php?href=http://translate.reference.com/translate?src=en&dst=it&query=hello&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:450px; height:21px;\" allowTransparency=\"true\"></iframe>\n" +
+            "                </span>\n" +
+            "                 <span class=\"tweet\">\n" +
+            "                          <a href=\"http://twitter.com/share\" data-url=\"http://translate.reference.com/translate?src=en&dst=it&query=hello\" data-count=\"horizontal\" target=\"_blank\"></a><script type=\"text/javascript\" src=\"http://platform.twitter.com/widgets.js\"></script>\n" +
+            "                 </span>\n" +
+            "                \n" +
+            "                    <span class=\"hdg\">\n" +
+            "                       <g:plusone size=\"medium\" href=\"http://translate.reference.com/translate?src=en&dst=it&query=hello\" count=\"true\" callback=\"plusone_vote\"></g:plusone>\n" +
+            "                    </span>\n" +
+            "                \n" +
+            "                </span>\n" +
+            "            </div>\n" +
+            "            <div class=\"tr_subtext\">\n" +
+            "                <span>Translate English, Spanish, French, German, Chinese, Portuguese, Italian and other languages for FREE!</span>\n" +
+            "            </div>\n" +
+            "        </div>\n" +
+            "        <form name=\"translateAnotherPhrase\" onsubmit=\"return t_formcheck();\" class=\"form_mask\" style=\"\" action=\"/translate\">\n" +
+            "            <div class=\"tap_new_mainTable\">\n" +
+            "                <div class=\"ht\"><div class=tr_outstyle>\n" +
+            "                    <div class=\"text_area\" ><div class=\"textarea_div\"><textarea name=\"query\" id=\"query\" onclick=\"clearText(this)\" maxlength=\"140\" class=\"tap_newtext\" onkeydown=\"submitTranslateForm(event);\" onkeyup=\"charCount();return ismaxlength(this);\">hello</textarea></div></div>\n" +
+            "                    <div class=\"trfrm\">\n" +
+            "                        <div class=\"tr_botstyle\">\n" +
+            "                        <span class=\"tr_ft\">Translate from&nbsp;</span>\n" +
+            "                        <div class=\"sel_Options tr_flstyle\">\n" +
+            "                            <select name=\"src\" id=\"src\" onchange=\"updateTransLang()\">\n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"af\">Afrikaans</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sq\">Albanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ar\">Arabic</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"be\">Belarusian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"bg\">Bulgarian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ca\">Catalan</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"zh-CN\">Chinese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hr\">Croatian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"cs\">Czech</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"da\">Danish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"nl\">Dutch</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"en\" selected=\"selected\">English</option>\n" +
+            "                                            \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"et\">Estonian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"tl\">Filipino</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fi\">Finnish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fr\">French</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"gl\">Galician</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"de\">German</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"el\">Greek</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ht\">Haitian Creole</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"iw\">Hebrew</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hi\">Hindi</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hu\">Hungarian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"is\">Icelandic</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"id\">Indonesian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ga\">Irish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"it\">Italian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ja\">Japanese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ko\">Korean</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"lv\">Latvian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"lt\">Lithuanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"mk\">Macedonian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ms\">Malay</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"mt\">Maltese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"no\">Norwegian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fa\">Persian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pl\">Polish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pt\">Portuguese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pt-PT\">Portuguese(Portugal)</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ro\">Romanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ru\">Russian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sr\">Serbian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sk\">Slovak</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sl\">Slovenian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"es\">Spanish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sw\">Swahili</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sv\">Swedish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"th\">Thai</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"tr\">Turkish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"uk\">Ukrainian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"vi\">Vietnamese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"cy\">Welsh</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"yi\">Yiddish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                            </select>\n" +
+            "                        </div>\n" +
+
+            "                        <div class=\"tr_ft tr_bot_mdstyle\">to &raquo;&nbsp;&nbsp;</div>\n" +
+            "                        <div class=\"sel_Options tr_flstyle tr_selst\">\n" +
+            "                            <select name=\"dst\" id=\"dst\" onchange=\"updateHpTransLang()\">\n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"af\">Afrikaans</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sq\">Albanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ar\">Arabic</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"be\">Belarusian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"bg\">Bulgarian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ca\">Catalan</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"zh-CN\">Chinese (Simplified)</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"zh-TW\">Chinese (Traditional)</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hr\">Croatian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"cs\">Czech</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"da\">Danish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"nl\">Dutch</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"en\">English</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"et\">Estonian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"tl\">Filipino</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fi\">Finnish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fr\">French</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"gl\">Galician</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"de\">German</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"el\">Greek</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ht\">Haitian Creole</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"iw\">Hebrew</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hi\">Hindi</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"hu\">Hungarian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"is\">Icelandic</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"id\">Indonesian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ga\">Irish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"it\" selected=\"selected\">Italian</option>\n" +
+            "                                            \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ja\">Japanese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ko\">Korean</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"lv\">Latvian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"lt\">Lithuanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"mk\">Macedonian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ms\">Malay</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"mt\">Maltese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"no\">Norwegian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"fa\">Persian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pl\">Polish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pt\">Portuguese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"pt-PT\">Portuguese(Portugal)</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ro\">Romanian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"ru\">Russian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sr\">Serbian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sk\">Slovak</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sl\">Slovenian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"es\">Spanish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sw\">Swahili</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"sv\">Swedish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"th\">Thai</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"tr\">Turkish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"uk\">Ukrainian</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"vi\">Vietnamese</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"cy\">Welsh</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                                    \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                        \n" +
+            "                                            <option value=\"yi\">Yiddish</option>\n" +
+            "                                        \n" +
+            "                                    \n" +
+            "                                    \n" +
+            "                                \n" +
+            "                            </select>\n" +
+            "                        </div>\n" +
+            "                            <img class=\"swap_img\" width=\"19\" height=\"19\" src=\"http://sp.dictionary.com/en/i/dictionary/swap.png\" onclick=\"swapTransLang()\"/>\n" +
+
+            "                    </div>\n" +
+
+            "                    <div class=\"dCounter\"><span id=\"tCnt\"></span><span id=\"chrCnt\"></span> <span>characters remaining</span></div>\n" +
+            "                    </div>\n" +
+            "                    <div>\n" +
+            "                    <span><a class=\"symbl\"><img class=\"sym\" src=\"http://sp.dictionary.com/en/i/dictionary/symbol.png\" style=\"float: left; width: 23px; padding-right:10px;\">Symbols & accents</a></span>\n" +
+            "                    <span><button class=\"trans_image\" type=\"submit\"></button></span>\n" +
+            "                    </div>\n" +
+
+            "                </div>\n" +
+            "                </div>\n" +
+            "                \n" +
+            "<script>\n" +
+            "\tcharCount();\n" +
+            "    insertWaterMark();    \n" +
+            "    function ismaxlength(obj){\n" +
+            "        var mlength=obj.getAttribute? parseInt(obj.getAttribute(\"maxlength\")) : \"\"\n" +
+            "        if (obj.getAttribute && obj.value.length>mlength)\n" +
+            "            obj.value=obj.value.substring(0,mlength)\n" +
+            "    }\n" +
+            "    function clearText(obj){\n" +
+            "        if(obj.value == \"Enter 140 characters or less for translation\"){\n" +
+            "            obj.value = \"\";\n" +
+            "            obj.style.color = \"#000000\";\n" +
+            "            obj.focus();\n" +
+            "        }\n" +
+            "    }\n" +
+
+            "//    Symbols module\n" +
+
+            "  var _last_focus_elem =null;\n" +
+            "     $j(\".tap_newtext\").focusin(function(){_last_focus_elem = this;});\n" +
+            "     function initKeyboardWidget(){\n" +
+            "         var key_list = new Array(\"&Agrave;\", \"&agrave;\", \"&Aacute\", \"&aacute;\",\n" +
+            "                 \"&Acirc;\", \"&acirc;\", \"&Atilde;\", \"&atilde;\", \"&Auml;\", \"&auml;\", \"&Aring;\",\n" +
+            "                 \"&aring;\", \"&Ccedil;\", \"&ccedil;\", \"&Egrave;\", \"&egrave;\", \"&Eacute;\",\n" +
+            "                 \"&eacute;\", \"&Ecirc;\", \"&ecirc;\", \"&Euml;\", \"&euml;\", \"&Igrave;\", \"&igrave;\",\n" +
+            "                 \"&Iacute;\", \"&iacute;\", \"&Icirc;\", \"&icirc;\", \"&#x143;\", \"&#x144;\", \"&Ntilde;\",\n" +
+            "                 \"&ntilde;\", \"&Ograve;\", \"&ograve;\", \"&Oacute;\",\"&oacute;\", \"&Ouml;\", \"&ouml;\",\n" +
+            "                 \"&Ocirc;\", \"&ocirc;\", \"&Ugrave;\", \"&ugrave;\", \"&Uacute;\", \"&uacute;\", \"&Uuml;\",\n" +
+            "                 \"&uuml;\", \"&Ucirc;\", \"&ucirc;\", \"&Yacute;\", \"&yacute;\", \"&Yuml;\", \"&yuml;\" );\n" +
+            "         var key_string = '';\n" +
+            "         for(k in key_list){\n" +
+            "             key_string += '<button class=\"keyboard_symbol\" style=\"display: -moz-inline-stack;width: 25px; margin: 0;\" tabindex=1>'+key_list[k]+'</button>';\n" +
+            "         }\n" +
+            "         // have a hidden dummy button that prevents IE from focusing on a button in the window\n" +
+            "         if (/MSIE (\\d+\\.\\d+);/.test(navigator.userAgent)){\n" +
+            "             key_string += '<button style=\"height:0;width:0;margin:0;padding:0;border:0;\" tabindex=0></button>';\n" +
+            "         }\n" +
+
+            "          var keyboard = '<div id=\"tooltip_keyboard\" class=\"tooltip_keyboard\"title=\"Symbols & accents\"><p>Click on any character below to insert it into translate box.</p><p>'+key_string+'</p></div>';\n" +
+            "         $j(\"body\").append(keyboard);\n" +
+            "         // dialog starts\n" +
+            "         var offsetleft= $j(\".symbl\").position().left+383;\n" +
+            "         var offsettop= $j(\".symbl\").position().top;\n" +
+            "         $j(\".symbl\").click(function(){\n" +
+            "             $j(\".tooltip_keyboard\").dialog({autoOpen: false, resizable: true, show: \"blind\", hide: \"blind\",position:[offsetleft,180],dialogClass: 'keyboard-dialog' });\n" +
+            "             $j(\".tooltip_keyboard\").dialog(\"open\");\n" +
+
+
+
+            "//        $j(\".tooltip_keyboard\").dialog( 'option', 'position', [offsetleft,0]);\n" +
+            "             return true;\n" +
+            "   });\n" +
+            "         $j('.keyboard_symbol').click(function(){\n" +
+            "             //focus out of box do the validation\n" +
+            "             if(_last_focus_elem){\n" +
+            "                 var caret_position = getCaret(_last_focus_elem);\n" +
+            "                 var textval = _last_focus_elem.value;\n" +
+            "                 var left_text  = textval.substring(0, caret_position);\n" +
+            "                 var right_text = textval.substring(caret_position, textval.length );\n" +
+            "                 _last_focus_elem.value = left_text + this.innerHTML + right_text;\n" +
+            "                 charCount();\n" +
+            "                 return ismaxlength(this);\n" +
+            "             }\n" +
+            "             else {\n" +
+            "                 alert('Please place your cursor in the field you want to edit.');\n" +
+            "             }\n" +
+            "         });\n" +
+            "     }\n" +
+            "     $j(document).ready(function(){\n" +
+            "         initKeyboardWidget();\n" +
+            "     });\n" +
+            "     function getCaret(el) {\n" +
+            "         if (el.selectionStart) {\n" +
+            "             return el.selectionStart;\n" +
+            "         } else if (document.selection) {\n" +
+            "             el.focus();\n" +
+            "             var r = document.selection.createRange();\n" +
+            "             if (r == null) {\n" +
+            "                 return 0;\n" +
+            "             }\n" +
+            "             var re = el.createTextRange(),\n" +
+            "                     rc = re.duplicate();\n" +
+            "             re.moveToBookmark(r.getBookmark());\n" +
+            "             rc.setEndPoint('EndToStart', re);\n" +
+            "             return rc.text.length;\n" +
+            "         }\n" +
+            "         return 0;\n" +
+            " }\n" +
+            "</script>\n" +
+            "     \n" +
+            "<script type=\"text/javascript\" src=\"https://apis.google.com/js/plusone.js\"></script>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+            " \n" +
+
+
+
+
+
+
+            "    <div id=\"trans\" class=\"tap_mt\">\n" +
+            "        <div class=\"tr_brst clearfix\">\n" +
+            "            <div class=\"tr_instyle\">\n" +
+            "                <div class=\"tr_ext clearfix\">\n" +
+            "                    <div class=\"translateTxt\" >\n" +
+            "                        \n" +
+            "                            \n" +
+            "                                \n" +
+            "                                    <div class=\"definition\" dir=\"\">\n" +
+            "<span class=\"BAB_CPPOSStyle\">inter.</span>\n" +
+            "     salve, salute, ciao; ehi; (Tel) pronto; ohibò\n" +
+            "    <br style=\"clear : both; font-size : 1px;\">\n" +
+            "</div>\n" +
+            "<div class=\"DIV_AS_HR\">&nbsp;</div>\n" +
+            "<div class=\"definition\" dir=\"\">\n" +
+            "<span class=\"BAB_CPPOSStyle\">s.</span>\n" +
+            "     saluto\n" +
+            "    <br style=\"clear : both; font-size : 1px;\">\n" +
+            "</div>\n" +
+            "                                \n" +
+            "                            \n" +
+            "                            \n" +
+            "                            \n" +
+            "                        \n" +
+            "                    </div>\n" +
+            "                </div>\n" +
+            "            </div>\n" +
+            "                \n" +
+            "        </div>\n" +
+            "    </div>\n" +
+
+
+            "</div>\n" +
+
+
+
+            "<div id =\"midbnrad\">\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+
+            "    \n" +
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    <div id='dcomad_728x91' class='banner-ad ' >\n" +
+            "            \n" +
+
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+
+            "        \n" +
+            "    </div>\n" +
+
+            "    \n" +
+            "    \n" +
+
+
+            "</div>\n" +
+
+
+
+            "<div class=\"ot\">See more translation results below</div>\n" +
+
+
+            "<div id =\"otg\">\n" +
+            "<div id=\"tg\">\n" +
+            "    <div id=\"gtimg\"></div>\n" +
+            "    <div id=\"expand\" onclick=\"translateGoogle('google');\">\n" +
+            "    <div id=\"eximg\"></div>\n" +
+            "    <div id=\"extext\">EXPAND</div>\n" +
+            "    </div>\n" +
+            "    <div id=\"collapse\" onclick=\"CollapseGoogleTranslator();\" style=\"display:none\">\n" +
+            "    <div id=\"coimg\"></div>\n" +
+            "    <div id=\"cotext\">COLLAPSE</div>\n" +
+            "    </div>\n" +
+            "</div>\n" +
+            "    <div id=\"tgl\">\n" +
+            "        <div class=\"textarea_div_ot\" id=\"tg2\">\n" +
+            "            \n" +
+            "        </div>\n" +
+            "    </div>\n" +
+            " </div>\n" +
+            "<script type=\"text/javascript\">\n" +
+            "    \n" +
+            "    var languageFrom = 'en';\n" +
+            "    var languageTo = 'it';\n" +
+            "    function translateGoogle(src) {\n" +
+            "        spk(this,{lk:'b9lp6p',en:'transge',io:'0',b:'trans',tp:'mid',m:'transge',pt:'Translate+Google+Expand'});\n" +
+            "        document.getElementById('tgl').style.display=\"block\";\n" +
+            "        document.getElementById('expand').style.display=\"none\";\n" +
+            "        document.getElementById('collapse').style.display=\"block\";\n" +
+            "        document.getElementById('tg2').innerHTML=\"Translating... please wait\";\n" +
+            "        var text= 'hello';\n" +
+            "        window.translateText = function(response) {\n" +
+            "            if(response.error){\n" +
+            "                document.getElementById(\"tg2\").innerHTML = '<div id=\"content\" class=\"eT\" style=\"padding-top:0px;\">Dictionary.com Translator is temporarily experiencing technical difficulties. <br/><br/>Please try again later.</div>';\n" +
+            "            }\n" +
+            "            else{\n" +
+            "                document.getElementById('tg2').innerHTML= response.data.translations[0].translatedText;\n" +
+            "            }\n" +
+            "        }\n" +
+            "        if (languageFrom != languageTo){\n" +
+            "        var s = document.createElement(\"script\");\n" +
+            "        s.src= \"https://www.googleapis.com/language/translate/v2?key=AIzaSyDfE-B0lz3VGyNMPahlfUqDVkNRP8jGTuA&source=\"+languageFrom+\"&target=\"+languageTo+\"&callback=translateText&q=\" + text;\n" +
+            "        document.getElementsByTagName(\"head\")[0].appendChild(s);\n" +
+            "         }\n" +
+            "        else{\n" +
+            "          document.getElementById('tg2').innerHTML= text;\n" +
+            "        }\n" +
+            "    }\n" +
+            "       function CollapseGoogleTranslator(){\n" +
+            "        spk(this,{lk:'yrtf9x',en:'transgc',io:'0',b:'trans',tp:'mid',m:'transgc',pt:'Translate+Google+Collpase'});\n" +
+            "        document.getElementById('tgl').style.display=\"none\";\n" +
+            "        document.getElementById('expand').style.display=\"block\";\n" +
+            "        document.getElementById('collapse').style.display=\"none\";\n" +
+            "    }\n" +
+
+            "</script>\n" +
+
+            "</form>\n" +
+            "<div style=\"clear:both\"></div>\n" +
+            "</div> \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "<div id=\"lukup\">\n" +
+            "    <div id=\"lump1\">Translate popular phrases into Italian below</div>\n" +
+            "    <div id=\"lump\" style=\"display:none\">Translate popular phrases into <span id=\"luklang\">English</span> below</div>\n" +
+            "    <div id=\"lukupt\">\n" +
+            "        \n" +
+            "            <span id=\"bp\">\n" +
+            "                \n" +
+            "                <div class =\"basic\">BASIC PHRASES</div>\n" +
+            "                <div class=\"bpl\">\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',0);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Hello\">Hello</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',1);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Goodbye\">Goodbye</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',2);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=My+name+is\">My name is</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',3);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+is+your+name%3F\">What is your name?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',4);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+time+is+it%3F\">What time is it?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',5);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Thank+you\">Thank you</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',6);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=You%27re+welcome\">You're welcome</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',7);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Have+a+nice+day\">Have a nice day</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',8);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Pleased+to+meet+you\">Pleased to meet you</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'vrljjn',en:'transbsc',b:'transmore',tp:'bot',m:'transbsc'},'',9);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Pardon+me\">Pardon me</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                </div>\n" +
+            "            </span>\n" +
+            "        \n" +
+            "            <span id=\"bp\">\n" +
+            "                \n" +
+            "                <div class =\"basic\">TRAVEL WORDS & PHRASES</div>\n" +
+            "                <div class=\"bpl\">\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',0);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Take+me+to+the+airport\">Take me to the airport</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',1);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Take+me+to+the+hotel\">Take me to the hotel</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',2);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+Taxi+stand%3F\">Where is the Taxi stand?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',3);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+am+on+vacation\">I am on vacation</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',4);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+am+here+on+business\">I am here on business</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',5);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=How+much+are+the+rooms%3F\">How much are the rooms?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',6);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+does+this+cost%3F\">What does this cost?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',7);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+am+from+the+United+States\">I am from the United States</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',8);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+are+you+from%3F\">Where are you from?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a1xgij',en:'transtrv',b:'transmore',tp:'bot',m:'transtrv'},'',9);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=These+are+my+bags\">These are my bags</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                </div>\n" +
+            "            </span>\n" +
+            "        \n" +
+            "            <span id=\"bp\">\n" +
+            "                \n" +
+            "                <div class =\"basic\">FOOD & RESTAURANT PHRASES</div>\n" +
+            "                <div class=\"bpl\">\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',0);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+would+like+a+table+for+two\">I would like a table for two</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',1);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+would+like+to+make+a+reservation\">I would like to make a reservation</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',2);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Do+you+serve+breakfast%3F\">Do you serve breakfast?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',3);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Do+you+serve+lunch%3F\">Do you serve lunch?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',4);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Do+you+serve+dinner%3F\">Do you serve dinner?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',5);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+dish+do+you+recommend%3F\">What dish do you recommend?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',6);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+do+you+have+for+dessert%3F\">What do you have for dessert?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',7);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=Can+I+see+the+wine+list%3F\">Can I see the wine list?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',8);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=May+I+have+the+check+please%3F\">May I have the check please?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"basp\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'a7hm57',en:'transfood',b:'transmore',tp:'bot',m:'transfood'},'',9);\" href=\"http://translate.reference.com/translate?src=en&dst=en&query=I+am+allergic+to+shellfish\">I am allergic to shellfish</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                </div>\n" +
+            "            </span>\n" +
+            "        \n" +
+            "    </div>\n" +
+            "    <div id=\"lukupb\">\n" +
+            "        \n" +
+            "            <span id=\"tap\">\n" +
+            "                <div class =\"time\">TIME AND PLACES</div>\n" +
+            "                \n" +
+            "                <div class=\"top\">\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',0);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+time+is+it%3F\">What time is it?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',1);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=What+day+is+it+today%3F\">What day is it today?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',2);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+nearest+restaurant%3F\">Where is the nearest restaurant?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',3);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+nearest+metro%3F\">Where is the nearest metro?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',4);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+nearest+train+station%3F\">Where is the nearest train station?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',5);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+nearest+bank%3F\">Where is the nearest bank?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',6);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+nearest+hotel%3F\">Where is the nearest hotel?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',7);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+can+I+find+a+taxi%3F\">Where can I find a taxi?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',8);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Where+is+the+toilet%3F\">Where is the toilet?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'us1ph0',en:'transtime',b:'transmore',tp:'bot',m:'transtime'},'',9);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Is+this+the+bus+stop%3F\">Is this the bus stop?</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                </div>\n" +
+            "            </span>\n" +
+            "        \n" +
+            "            <span id=\"taplast\">\n" +
+            "                <div class =\"time\">COMMON VERBS</div>\n" +
+            "                \n" +
+            "                <div class=\"top\">\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',0);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Ask\">Ask</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',1);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Buy\">Buy</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',2);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Drive\">Drive</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',3);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Drink\">Drink</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',4);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Eat\">Eat</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',5);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Give\">Give</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',6);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=See\">See</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',7);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Sleep\">Sleep</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',8);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Walk\">Walk</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                        <div class=\"tip\">\n" +
+            "                            <a onmousedown=\"updateHpTransLang(this);return pk(this,{lk:'1fvvtw',en:'transverb',b:'transmore',tp:'bot',m:'transverb'},'',9);\"  href=\"http://translate.reference.com/translate?src=en&dst=en&query=Work\">Work</a>\n" +
+            "                        </div>\n" +
+            "                    \n" +
+            "                </div>\n" +
+            "            </span>\n" +
+            "        \n" +
+            "        <span id=\"adrt\">\n" +
+            "            \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+
+            "    \n" +
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    <div id='dcomad_300x250' class='box-ad ' float=\"right\">\n" +
+            "            \n" +
+
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+
+            "        \n" +
+            "    </div>\n" +
+
+            "    \n" +
+            "    \n" +
+
+
+
+            "        </span>\n" +
+            "    </div>\n" +
+            "</div>\n" +
+
+
+            "<script type=\"text/javascript\">\n" +
+            "    function updateHpTransLang(li){\n" +
+            "        var source = document.getElementById(\"src\").value;\n" +
+            "        var destination = document.getElementById(\"dst\").value;\n" +
+            "        $j('#lump1').css('display','none');\n" +
+            "        $j('#lump').css('display','block');\n" +
+            "        var query=\"\";\n" +
+            "        if (Cookie.isEnabled()) {\n" +
+            "            var date = new Date();\n" +
+            "            date.setTime(date.getTime() + 172800000);\n" +
+            "            Cookie.setCookie(\"translangpair\",source+\"-\"+destination,date,\"/\",\"reference.com\");\n" +
+            "        }\n" +
+            "        var destlang =  $j('#dst option:selected').text();\n" +
+            "        $j(\"#luklang\").text(destlang);\n" +
+            "        if(li!=undefined){\n" +
+            "          query = ptxt(li).replace(/\\s+/g,\"+\");\n" +
+            "          li.href = 'http://translate.reference.com/translate?src=en&dst='+destination+'&query='+query;\n" +
+            "        }\n" +
+            "        return true;\n" +
+            "    }\n" +
+            "</script>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "</div>\n" +
+            "</div>\n" +
+
+
+            "    \n" +
+            "    \n" +
+
+
+            "<style type=\"text/css\">   \n" +
+            "    #macnt,#alM8{\n" +
+            "        display:block;\n" +
+            "    }\n" +
+            "</style>\n" +
+
+
+
+
+
+
+
+
+
+
+            "<script type=\"text/javascript\">\n" +
+            "    \n" +
+            "        $j = jQuery;\n" +
+            "    var eventType = \"mousedown\";\n" +
+            "    var popup = $j(\"#popup\");\n" +
+
+            "    function showpopup()\n" +
+            "    {\n" +
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        $j(\"#fncyb\").fancybox({\n" +
+            "            width: 777,\n" +
+            "            height:485,\n" +
+            "            padding:0,\n" +
+            "            margin:0,\n" +
+            "            'scrolling':'no',\n" +
+            "            'autoScale'\t\t\t: false,\n" +
+            "            'transitionIn'\t\t: 'none',\n" +
+            "            'transitionOut'\t\t: 'none',\n" +
+            "            'showCloseButton'   : false,\n" +
+            "            'type'\t\t\t\t: 'iframe',\n" +
+            "            'onComplete'        : function (){\n" +
+            "                document.domain=setDomain();\n" +
+            "            }\n" +
+
+            "        });\n" +
+            "    \n" +
+            "    \n" +
+            "    }\n" +
+            "    $j('body').delegate('#favLink1','mousedown',function(){\n" +
+            "        location.href = \"http://app.dictionary.com/favorites\";\n" +
+            "    }\n" +
+            "            );\n" +
+            "    $j(document).bind(\n" +
+            "            eventType,\n" +
+            "            function(){\n" +
+            "                popup.hide();\n" +
+            "            }\n" +
+            "            );\n" +
+
+            "    \n" +
+            "    \n" +
+
+            "    \n" +
+            "    \n" +
+            "    $j('body').delegate('#nonfav','mousedown',function(){\n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "       deleteFavoriteCount();\n" +
+            "       showpopup();\n" +
+            "    \n" +
+            "    \n" +
+            "    });\n" +
+
+
+            "    function redirectToAppcoreForSuperSession(){\n" +
+            "        locationString = window.location.toString();\n" +
+            "        if(Cookie.isEnabled()){\n" +
+            "            Cookie.setCookie(\"fQ\", \"\", \"\", \"/\", \"reference.com\");\n" +
+            "            setDictionaryConsolidatedCookie('fC','*');\n" +
+            "        }\n" +
+            "        window.location = \"http://app.dictionary.com/login/?logindest=\"+enc(locationString);\n" +
+            "    }\n" +
+
+            "    function headerChange(){\n" +
+            "        \n" +
+            "    var name = appCoreUsername;\n" +
+            "        if(fbUser=='y'){\n" +
+            "            $j('#tpnv').html('<span class=\"fbuser\"></span><span>Hi,</span><a href=\"http://app.dictionary.com/users/settings\">'+'\\n'+name+'\\n'+'</a><a href=\"http://app.dictionary.com/favorites\"><span class=\"favL\"></span><span id=\"favLink\"></span></a>'+'\\n'+'<a href=\"http://app.dictionary.com/logout?logindest=\"'+enc(window.location.toString())+' \"class=\"hdrlink\" id=\"favLogout\">Log Out</a>');\n" +
+            "        }else {\n" +
+            "            $j('#tpnv').html('<span>Hi,</span><a href=\"http://app.dictionary.com/users/settings\">'+'\\n'+name+'\\n'+'</a><a href=\"http://app.dictionary.com/favorites\"><span class=\"favL\"></span><span id=\"favLink\"></span></a>'+'\\n'+'<a href=\"http://app.dictionary.com/logout?logindest=\"'+enc(window.location.toString())+' \"class=\"hdrlink\" id=\"favLogout\">Log Out</a>');\n" +
+            "        }\n" +
+            "    }\n" +
+
+            "    function makeFooterVisible(){\n" +
+            "        var scrollTop = $j(window).scrollTop();\n" +
+            "        var bodyHeight = $j('body').height();\n" +
+            "        \n" +
+            "            if (scrollTop >100 && scrollTop < 300){\n" +
+            "                       $j(\"#sftr\").css('visibility','visible');\n" +
+            "            }\n" +
+            "        \n" +
+            "        \n" +
+            "            if(scrollTop >= 300 || bodyHeight < 930){\n" +
+            "                $j(\"#sftr\").css('visibility','visible');\n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "        \n" +
+            "        }\n" +
+            "    }\n" +
+
+
+
+
+
+
+
+            "    $j('body').delegate('#arcnt','mousedown',function(){\n" +
+            "      pk(this,{lk:'f1h0vi',en:'forec',io:'0',b:'stfo',tp:'bot',m:'forec'});\n" +
+            "    });\n" +
+
+            "    $j('body').delegate('#afav','mousedown',function(){\n" +
+            "      pk(this,{lk:'lwjk79',en:'fofav',io:'0',b:'stfo',tp:'bot',m:'fofav'});\n" +
+            "    });\n" +
+
+            "    $j('body').delegate('.ftr_logo','mousedown',function(){\n" +
+            "      spk(this,{lk:'28rdro',en:'fologo',io:'0',b:'stfo',tp:'bot',m:'fologo'});\n" +
+            "    });\n" +
+
+            "     //variables for fcol\n" +
+
+            "     isspellingProductEmpty = true;\n" +
+            "     categoryFordictionaryAd = false\n" +
+            "     isIPadDevice = false\n" +
+
+            "    $j(window).scroll(function(){\n" +
+            "    makeFooterVisible();\n" +
+            "    });\n" +
+
+
+            "    $j(document).ready(function() {\n" +
+            "        makeFooterVisible();\n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    $j(\"#bfpu>ul>li>.flog\").attr(\"href\",\"http://app.dictionary.com/popup?source=footer&fnCallback=loginuser&callbackAction=showFavWords&domaindest=reference.com\");\n" +
+            "    $j(\"#brpu>ul>li>.flog\").attr(\"href\",\"http://app.dictionary.com/popup?source=footer&fnCallback=loginuser&callbackAction=showRecent&domaindest=reference.com\");\n" +
+            "    $j(\".flog\").fancybox({\n" +
+            "        width: 777,\n" +
+            "        height:485,\n" +
+            "        padding:0,\n" +
+            "        margin:0,\n" +
+            "        'scrolling':'no',\n" +
+            "        'autoScale'\t\t\t: false,\n" +
+            "        'transitionIn'\t\t: 'none',\n" +
+            "        'transitionOut'\t\t: 'none',\n" +
+            "        'showCloseButton'   : false,\n" +
+            "        'type'\t\t\t\t: 'iframe',\n" +
+            "        'onComplete'        : function (){\n" +
+            "            document.domain = setDomain();\n" +
+            "        }\n" +
+
+            "    });\n" +
+            "    $j(\"#bfpu>ul>li>.freg\").attr(\"href\",\"http://app.dictionary.com/popup?source=footer&fnCallback=loginuser&callbackAction=showFavWords&domaindest=reference.com\");\n" +
+            "    $j(\"#brpu>ul>li>.freg\").attr(\"href\",\"http://app.dictionary.com/popup?source=footer&fnCallback=loginuser&callbackAction=showRecent&domaindest=reference.com\");\n" +
+            "    $j(\".freg\").fancybox({\n" +
+            "        width: 777,\n" +
+            "        height:485,\n" +
+            "        padding:0,\n" +
+            "        margin:0,\n" +
+            "        'scrolling':'no',\n" +
+            "        'autoScale'\t\t\t: false,\n" +
+            "        'transitionIn'\t\t: 'none',\n" +
+            "        'transitionOut'\t\t: 'none',\n" +
+            "        'showCloseButton'   : false,\n" +
+            "        'type'\t\t\t\t: 'iframe',\n" +
+            "        'onComplete'        : function (){            \n" +
+            "            document.domain=setDomain();\n" +
+            "        }\n" +
+
+            "    });\n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        registerBottomFavAction();\n" +
+            "    });\n" +
+            "    \n" +
+            "</script>\n" +
+
+
+            "    <style type=\"text/css\">\n" +
+            "        #nfotr {\n" +
+            "            padding-top: 50px;\n" +
+            "        }\n" +
+            "    </style>\n" +
+
+            "</div>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+            "        </div> <!--results-->\n" +
+            "        </div> <!--dmain-->\n" +
+            "        </center>  <!--center that encloses dmain-->\n" +
+            "        </div> <!--de-->\n" +
+            "        </div> <!--cwrp-->\n" +
+            "        <div id=\"nfotr\">\n" +
+            "            \n" +
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "    \n" +
+
+
+
+            "    <div class=\"brftr\">\n" +
+            "        \n" +
+            "        <div class=\"er\">\n" +
+            "            <a class=\"fdic\" href=\"http://content.dictionary.com\" onmousedown=\"daisyPK(this,{lk:'20fqrf',en:'fdic',io:'0',b:'nav',tp:'bot',m:'fdic',pt:'Footer+Dictionary+Logo'});\"></a>\n" +
+            "            <a class=\"fask\" href=\"http://www.ask.com\" onmousedown=\"daisyPK(this,{lk:'fhqxcr',en:'fask',io:'0',b:'nav',tp:'bot',m:'fask',pt:'Footer+Ask+Logo'});\"></a>\n" +
+            "            <div class=\"ptn\">Partners:<a href=\"http://translate.reference.com/word\" onmousedown=\"daisyPK(this,{lk:'khlrub',en:'pwrd',io:'0',b:'prtnr',tp:'bot',m:'pwrd'});\">Word</a><a href=\"http://www.bloglines.com/\" onmousedown=\"daisyPK(this,{lk:'lif9yl',en:'pblg',io:'0',b:'prtnr',tp:'bot',m:'pblg'});\">Bloglines</a><a href=\"http://www.citysearch.com/\" rel=\"nofollow\" onmousedown=\"daisyPK(this,{lk:'xzoji2',en:'pctysrch',io:'0',b:'prtnr',tp:'bot',m:'pctysrch'});\">Citysearch</a><a href=\"http://www.thedailybeast.com/\" rel=\"nofollow\" onmousedown=\"daisyPK(this,{lk:'r3vehy',en:'pdlybst',io:'0',b:'prtnr',tp:'bot',m:'pdlybst'});\">The Daily Beast</a><a href=\"http://answers.ask.com/\" onmousedown=\"daisyPK(this,{lk:'tyg264',en:'paskansw',io:'0',b:'prtnr',tp:'bot',m:'paskansw'});\">Ask Answers</a><a href=\"http://www.askkids.com/\" onmousedown=\"daisyPK(this,{lk:'lsfcwp',en:'paskkids',io:'0',b:'prtnr',tp:'bot',m:'paskkids'});\">Ask Kids</a><a href=\"http://www.life123.com/\" onmousedown=\"daisyPK(this,{lk:'v3vdw8',en:'plife',io:'0',b:'prtnr',tp:'bot',m:'plife'});\">Life123</a><a href=\"http://www.sendori.com/\" onmousedown=\"daisyPK(this,{lk:'9o2kq',en:'psendori',io:'0',b:'prtnr',tp:'bot',m:'psendori'});\" >Sendori</a><a href=\"http://www.thesaurus.com/\" onmousedown=\"daisyPK(this,{lk:'1ow9ml',en:'pthes',io:'0',b:'prtnr',tp:'bot',m:'pthes'});\" class=\"npr\">Thesaurus</a></div>\n" +
+            "        </div>\n" +
+            "    </div>\n" +
+
+
+
+            "            <div id=\"nfr\">\n" +
+            "                \n" +
+
+
+
+
+
+
+
+
+
+            "   \n" +
+            "      \n" +
+            "    \n" +
+            "    <div class=\"bllt\"> Dictionary.com, LLC. Copyright &copy;&nbsp;<span title=\"Copyright Ã\u0082Â©&nbsp;2012, Dictionary.com, LLC. All rights reserved.\">2012</span>. All rights reserved.</div>\n" +
+            "    <div class=\"blf\">\n" +
+            "        <a target=\"_top\" rel=\"nofollow\" href=\"http://content.dictionary.com\" onmousedown=\"daisyPK(this,{lk:'y0qla1',en:'abt',io:'0',b:'nav',tp:'bot',m:'abt'});\">About</a>\n" +
+            "        <a target=\"_top\" rel=\"nofollow\" href=\"http://translate.reference.com/help/privacy.html\" onmousedown=\"daisyPK(this,{lk:'u2afv2',en:'prvplcy',io:'0',b:'nav',tp:'bot',m:'prvplcy'});\">Privacy Policy</a>\n" +
+            "        <a target=\"_top\" rel=\"nofollow\" href=\"http://dictionary.reference.com/help/terms.html\" onmousedown=\"daisyPK(this,{lk:'cuhe6x',en:'trmofuse',io:'0',b:'nav',tp:'bot',m:'trmofuse'});\">Terms of Use</a>\n" +
+            "        <a target=\"_top\" href=\"http://dictionary.reference.com/api\" onmousedown=\"daisyPK(this,{lk:'goo175',en:'api',io:'0',b:'nav',tp:'bot',m:'api'});\">API</a>\n" +
+            "        <a target=\"_top\" rel=\"nofollow\" href=\"/careers\" rel=\"nofollow\" onmousedown=\"daisyPK(this,{lk:'pm7vfr',en:'careers',io:'0',b:'nav',tp:'bot',m:'careers'});\">Careers</a>\n" +
+            "        <a target=\"_top\" rel=\"nofollow\" href=\"http://translate.reference.com/mediakit\" onmousedown=\"daisyPK(this,{lk:'bga8c7',en:'advtus',io:'0',b:'nav',tp:'bot',m:'advtus'});\">Advertise with Us</a>\n" +
+            "        <a onmousedown=\"daisyPK(this,{lk:'lnnyvs',en:'cnt',io:'0',b:'nav',tp:'bot',m:'cnt'});\" target=\"_top\" href=\"http://content.dictionary.com/about/contact\">Contact Us</a>\n" +
+            "        <a class=\"npr\" target=\"_top\" onmousedown=\"daisyPK(this,{lk:'ehy6lf',en:'help',io:'0',b:'nav',tp:'bot',m:'help'});\" rel=\"nofollow\" href=\"http://translate.reference.com/help\">Help</a>\n" +
+            "    </div>\n" +
+            "     \n" +
+            "   \n" +
+
+            "            </div>\n" +
+            "        </div>\n" +
+            "        </div> <!--contouter-->\n" +
+            "        \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "<div id=\"sftr\">\n" +
+            "    <div class=\"ftwr\">\n" +
+            "        <div class=\"bfp\" id=\"bfpu\">\n" +
+            "            <ul>\n" +
+            "                <li class=\"bpt\"></li>\n" +
+            "                \n" +
+            "                    \n" +
+            "                    \n" +
+            "                        <li style=\"line-height:14px;\">Please <a class='flog'>Login</a> or <a class='freg'>Sign Up</a> to use the Favorites feature</li>\n" +
+            "                    \n" +
+            "                \n" +
+            "                <li class=\"bpb\"></li>\n" +
+            "            </ul>\n" +
+            "        </div>\n" +
+            "        <div class=\"bfp\" id=\"brpu\">\n" +
+            "            <ul>\n" +
+            "                <li class=\"bpt\"></li>\n" +
+            "                \n" +
+            "                    \n" +
+            "                    \n" +
+            "                        <li style=\"line-height:14px;\">Please <a class='flog'>Login</a> or <a class='freg'>Sign Up</a> to use the Recent Searches feature</li>\n" +
+            "                    \n" +
+            "                \n" +
+            "                <li class=\"bpb\"></li>\n" +
+            "            </ul>\n" +
+            "        </div>\n" +
+            "        <div class=\"sftc\">\n" +
+            "            <a class=\"ftr_logo\" href=\"#de\"></a>\n" +
+            "            <a class=\"sfav\"><div></div><span>FAVORITES</span></a>\n" +
+            "            <a class=\"srec\" onmousedown=\"showRecentPopUp();\"><div></div><span>RECENT</span></a>\n" +
+            "            \n" +
+            "            <form action=\"/dic\" onsubmit=\"return botformcheck()\" class=\"mnfrm\">\n" +
+            "                <input size=\"20\" value=\"search translator\" id=\"bq\" autoComplete=\"off\" type=\"text\" name=\"q\" onclick=\"make_blank();\"/>\n" +
+            "                <button type=\"submit\" value=\"\"></button>\n" +
+            "            </form>\n" +
+            "            <div class=\"ftsp\">\n" +
+            "                \n" +
+            "                \n" +
+            "                    \n" +
+            "                    \n" +
+            "                    \n" +
+            "                        <a id=\"promo_ftr_anc\" href=\"http://dynamo.dictionary.com?mp_source=83iy4e\" onmousedown=\"daisyCT(this,'0',{en:'stk',io:'0',b:'stk',tp:'stk',ec:'1',m:'stk',lk:'83iy4e'})\">\n" +
+            "                            <img id='promo_ftr' src='http://sp.dictionary.com/en/i/dictionary/adshop/promos/dynamo_logo.png'/>\n" +
+            "                            <span class='promo_txt_ftr'>How many words do you know? <font style=\"color:#ffff00\">FIND OUT</font></span>\n" +
+            "                        </a>\n" +
+            "                                         \n" +
+            "                    \n" +
+            "                \n" +
+            "            </div>\n" +
+            "            <a class=\"fCol\" onclick=\"expandorCollpase();\"></a>\n" +
+            "        </div>\n" +
+            "    </div>\n" +
+            "</div>\n" +
+            "<script type=\"text/javascript\">\n" +
+            "    $j(\"body\").delegate(\".srec\",\"mouseenter\",function(){showRecentPopUp();\n" +
+            "});\n" +
+            "    $j('body').delegate('#sftr','mouseleave',function(){\n" +
+            "    $j('#brpu').hide();\n" +
+            "    $j('#bfpu').hide();\n" +
+            "});\n" +
+            "</script>\n" +
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+            "</div>\n" +
+
+            "    <style type=\"text/css\">\n" +
+            "        #tpnv{\n" +
+            "            line-height:22px;\n" +
+            "        }\n" +
+            "    </style>\n" +
+
+
+            "<script>\n" +
+            "    \n" +
+            "    var didyouknow = '<div id=\"macnt\"><span class=\"wia\">Did you know:</span><span class=\"wiac\">Meow? If you love cats, shouldn\\'t you <a  class=\"lnktxt\" href=\"http:\\/\\/dictionary.reference.com\\/browse\\/vibrissa?qsrc=3086\" onmousedown=\"daisyCT(this,53784,{en:\\'amm\\',io:0,b:\\'di1\\',tp:\\'top\\',m:\\'alrtM\\',ec:1,lk:\\'jwc8dj\\'})\" onclick=\"closeThis(15,\\'amm\\')\">know the word for whiskers?<\\/a></span></div>' ;\n" +
+            "    if($j('#diduno')){$j('#diduno').html(didyouknow);}\n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "</script>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+            "            \n" +
+
+            "        \n" +
+            "    \n" +
+            "    \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "        \n" +
+
+            "            \n" +
+
+            "        \n" +
+            "        \n" +
+            "            \n" +
+            "                \n" +
+            "            \n" +
+            "             \n" +
+            "        \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    <script type=\"text/javascript\">\n" +
+            "        (function() {\n" +
+            "            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n" +
+            "            po.src = 'http://rt.legolas-media.com/lgrt?ci=2&ti=1222&pbi=10791';\n" +
+            "            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n" +
+            "        })();\n" +
+            "    </script>\n" +
+
+
+
+
+
+
+
+
+
+
+            "<span style=\"display:none\">\n" +
+            "    \n" +
+            "        \n" +
+            "            <!-- Start Quantcast Delivery Tag : Publisher Specific -->\n" +
+            "            <script type=\"text/javascript\">\n" +
+            "                _qoptions = {\n" +
+            "                    qacct:\"p-51zXP5Cc9sxvQ\"\n" +
+            "                };\n" +
+            "            </script>\n" +
+            "            <script type=\"text/javascript\">\n" +
+            "            (function() {\n" +
+            "                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n" +
+            "                po.src = 'http://pixel.quantserve.com/seg/p-51zXP5Cc9sxvQ.js';\n" +
+            "                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n" +
+            "            })();\n" +
+            "            </script>\n" +
+            "            <!-- End Quantcast Delivery Tag -->\n" +
+            "        \n" +
+            "        \n" +
+            "            <!-- Start Quantcast Inline Delivery Tag -->\n" +
+            "            <script type=\"text/javascript\">\n" +
+            "                // DO NOT REMOVE _quantgc function\n" +
+            "                function _quantgc(n) {\n" +
+            "                    var c=document.cookie;if(!c)return '';\n" +
+            "                    var i=c.indexOf(n+\"=\");if(-1==i)return '';\n" +
+            "                    var len=i+n.length+1;\n" +
+            "                    var end=c.indexOf(\";\", len);\n" +
+            "                    return c.substring(len,end<0?c.length:end);\n" +
+            "                }\n" +
+            "                // Code below is customizable per publisher\n" +
+            "                quantSegs = \"\";\n" +
+            "                var _qsegs = _quantgc('__qseg').split('|');\n" +
+            "                for (var i=0;i < _qsegs.length;i++) {\n" +
+            "                    var qArr=_qsegs[i].split(\"_\")\n" +
+            "                    if (qArr.length>1) { quantSegs += ( qArr[1] + \",\"); }\n" +
+            "                }\n" +
+            "            </script>\n" +
+            "            <!-- End Quantcast Inline Delivery Tag -->\n" +
+            "        \n" +
+            "    \n" +
+            "</span>\n" +
+
+
+
+
+            "<span style=\"display:none\">\n" +
+            "    \n" +
+            "        \n" +
+            "            <!-- Quantcast Tag, part 2 -->\n" +
+            "            <script type=\"text/javascript\">\n" +
+            "                _qevents.push( { qacct:\"p-51zXP5Cc9sxvQ\"} );\n" +
+            "            </script>\n" +
+            "            <noscript>\n" +
+            "                <div style=\"display: none;\"><img src=\"//pixel.quantserve.com/pixel/p-51zXP5Cc9sxvQ.gif\" height=\"1\" width=\"1\" alt=\"Quantcast\"/></div>\n" +
+            "            </noscript>\n" +
+            "            <!-- End Quantcast Measurement Tag -->\n" +
+            "        \n" +
+            "    \n" +
+            "</span>\n" +
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "                \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+            "<!--Google Pixel cross Domain support-->\n" +
+
+            "    \n" +
+            "        <script>\n" +
+            "            $j(\"a\").filter(function(index){\n" +
+            "                var tmp = this.onmousedown;\n" +
+            "                this.onmousedown ='';\n" +
+            "                $j(this).mousedown(function(e){\n" +
+            "                    if(this.href!=='' && (this.href.indexOf(\"reference.com\")== -1)){\n" +
+            "                        var crossDomain = \"thesaurus.com|dictionary.com\";\n" +
+            "                        crossDomain = crossDomain.split('|');\n" +
+            "                        for(var x in crossDomain){\n" +
+            "                            if((this.href.indexOf(crossDomain[x]) != -1)){\n" +
+            "                                var src = readCookie(\"rh\");\n" +
+            "                                var mobc = readCookie(\"mw\");\n" +
+            "                                if(mobc!=null){\n" +
+            "                                    src=src + \"&m=www\";\n" +
+            "                                }\n" +
+            "                                this.href = appendReferrerHost(this.href,src);\n" +
+            "                                var pageTracker = _gat._getTrackerByName(); // Gets the default tracker.\n" +
+            "                                this.href = pageTracker._getLinkerUrl(this.href);\n" +
+            "                            }\n" +
+            "                        }\n" +
+            "                    }\n" +
+            "                    if(\"undefined\" != typeof(tmp) && null != tmp && \"\" != tmp)\n" +
+            "                    {\n" +
+            "                        tmp.call(this);\n" +
+            "                    }\n" +
+            "                });\n" +
+            "            });\n" +
+            "        </script>\n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+            "    \n" +
+
+
+            "<div id=\"csPixel\" style=\"display:none\">\n" +
+            "    <noscript>\n" +
+            "        <img src=\"http://b.scorecardresearch.com/b?c1=2&c2=6034776&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1\" style=\"display:none\" width=\"0\" height=\"0\" alt=\"\" />\n" +
+            "    </noscript>\n" +
+            "    <script type=\"text/javascript\">\n" +
+            "        (function($){\n" +
+            "            $.fn.renderscsPixel = function(){\n" +
+            "                ghostwriter(\n" +
+            "                        \"csPixel\",\n" +
+            "                {\n" +
+            "                    insertType: \"append\",\n" +
+            "                    script: { text: \"document.write('<script src=\\\"\" + (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\")+ \".scorecardresearch.com/beacon.js\"+\"\\\"><\\/script>');\" },\n" +
+            "                    done:function(){\n" +
+            "                        COMSCORE.beacon({c1:2,c2:6034776,c3:\"\",c4:(new String(window.location)).replace(/\\?.*$/, \"\"),c5:\"\",c6:\"\",c15:\"\"});\n" +
+            "                    }\n" +
+            "                }\n" +
+            "                        );\n" +
+            "            }\n" +
+            "        })(jQuery);\n" +
+            "        var csPixelLoaded = false;\n" +
+            "        $j(document).ready(function(){\n" +
+            "            if(!csPixelLoaded){\n" +
+            "                csPixelLoaded = true;\n" +
+            "                $j(\"#csPixel\").renderscsPixel();\n" +
+            "            }\n" +
+            "        });\n" +
+            "    </script>\n" +
+            "</div>\n" +
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "        \n" +
+            "            \n" +
+            "        \n" +
+            "        \n" +
+            "    \n" +
+
+
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "        <script type='text/javascript' src='http://sp.dictionary.com/sh/i/dict/dynamic_scripts.js?ver=16154'></script>\n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+            "        <style type=\"text/css\">\n" +
+            "    #dict_header_content img[width=\"15\"] {\n" +
+            "        display:none;\n" +
+            "    }\t\n" +
+            "\t.ra1-pw-buttonSprite-24{\n" +
+            "\t\theight:20px !important;\n" +
+            "\t\twidth:21px !important;\n" +
+            "\t\tbackground-position:-2px -1058px !important \n" +
+            "\t} \n" +
+            "\t#po_st{\n" +
+            "\ttop:-2px !important\n" +
+            "\t}\n" +
+            "</style>\n" +
+            "<!--[if IE]>\n" +
+            "<style type=\"text/css\">\n" +
+            ".strrt{\n" +
+            "\t\tmargin-left:-4px;\n" +
+            "\t}\n" +
+            "</style>\n" +
+
+            "<![endif]-->\n" +
+            "<!--[if IE 7 ]>\n" +
+            "<style type=\"text/css\">\n" +
+            ".strrt{\n" +
+            "\t\tposition: relative !important;\n" +
+            "\t}\n" +
+            "</style>\n" +
+            "<![endif]-->\n" +
+
+            "<script type=\"text/javascript\">\n" +
+            "if(typeof $j != 'undefined'){\n" +
+
+            "\t$j(document).ready(function(){\n" +
+            "\ttry{\n" +
+            " \t\tsetTimeout(ghostwriter.flushloadhandlers, 250);\n" +
+            "\t}catch(e){\n" +
+            "\t//do nothing\n" +
+            "\t}})}\n" +
+
+            " \n" +
+            "\t \n" +
+            "    function updateRecentCookie(){\n" +
+            "        if(Cookie.isEnabled() && window.location.host.indexOf('dictionary')!=-1)\t{\n" +
+            "            var val=Cookie.getCookie(\"recsrch\");\n" +
+            "            var checker=Cookie.getCookie(\"chk_del\");\n" +
+            "            if(val){\n" +
+            "                if(checker == null){\n" +
+            "                    Cookie.deleteCookie('recsrch','/','.reference.com');\n" +
+            "                    var exp = new Date();\n" +
+            "                    exp.setFullYear(exp.getFullYear());\n" +
+            "                    exp.setMonth(exp.getMonth());\n" +
+            "                    exp.setDate(exp.getDate()+1);\n" +
+            "                    exp.setHours(0);\n" +
+            "                    exp.setMinutes(0);\n" +
+            "                    var domain= \".reference.com\"\n" +
+            "                    Cookie.setCookie(\"chk_del\", \"true\", exp, \"/\", domain);\n" +
+            "                }\n" +
+            "            }\n" +
+            "        }\n" +
+            "    }\n" +
+            "    function eraseSetVar(){\n" +
+            "        locationString = window.location.toString();\n" +
+            "        if(Cookie.isEnabled() && locationString.indexOf('thesaurus.com') != -1){\n" +
+            "            Cookie.deleteCookie('__utmv','/','.thesaurus.com');\n" +
+            "        }\n" +
+            "        if(Cookie.isEnabled() && locationString.indexOf('reference.com') != -1){\n" +
+            "            Cookie.deleteCookie('__utmv','/','.reference.com');\n" +
+            "        }\n" +
+            "    }\n" +
+            "    eraseSetVar();\n" +
+            "    updateRecentCookie();\n" +
+            "\tif (_sourcepg != 'trans_translate' || navigator.userAgent.toLowerCase().search('ipad') == -1) {\n" +
+            "    function makeFooterVisible() {\n" +
+            "        var scrollTop = $j(window).scrollTop();\n" +
+            "        var bodyHeight = $j('body').height();\n" +
+            "        if (scrollTop >= 300 || bodyHeight < 930) {\n" +
+            "            $j(\"#sftr\").css('visibility', 'visible');\n" +
+            "            $j(\"#sftr\").css('position', 'fixed');\n" +
+            "        }\n" +
+            "    }\n" +
+            "}\n" +
+            "</script>\n" +
+            "<script type=\"text/javascript\">\n" +
+            "var askinformationhp= document.getElementById('popularquestionsIndex');\n" +
+            "if(askinformationhp){\n" +
+            "askinformationhp.style.position=\"relative\";\n" +
+            "askinformationhp.style.left=\"-8px\";\n" +
+            "}\n" +
+            "</script>\n" +
+            "<style>\n" +
+            ".fmts-lb-title-wrapper{\n" +
+            "    background-image: url(\"http://sp.dictionary.com/dictionary/homepage/ImagesNew/dic_logo.png\");\n" +
+            "    background-repeat: no-repeat; \n" +
+            "\theight:40px;\n" +
+            "\tmargin:7px;\n" +
+            "   }\n" +
+            "#fmts-lb-cn-wrapper.fmts-lb-cn-wrapper .fmts-lb-cn .fmts-lb-cn-title {\n" +
+            "    margin-left: 194px;\n" +
+            "\tline-height:47px;\t\n" +
+            "}\n" +
+            " #fmts-lb-overlay{opacity:0.7 !important}\n" +
+            "</style>\n" +
+            "<!--[if lt IE 9]>\n" +
+            "<style>\n" +
+            "#fmts-lb-cn-wrapper.fmts-lb-cn-wrapper .fmts-lb-cn .fmts-lb-cn-title {\n" +
+            "  padding-top:12px;\t\n" +
+            "}\n" +
+            "</style>\n" +
+            "\t\n" +
+            "<![endif]--> \n" +
+
+            "    \n" +
+            "    \n" +
+            "    \n" +
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "</body>\n" +
+            "</html>\n" +
+
+
+
+
+
+
+            "\n";
+}
