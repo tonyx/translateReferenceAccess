@@ -14,7 +14,6 @@ import org.tonyxzt.language.core.ContentProvider;
  */
 public class TranslateReferenceProvider implements ContentProvider {
     public String retrieve(String word, String langIn, String langOut) throws Exception {
-
         NameValuePair[] params = new NameValuePair[]{
                 new NameValuePair("query",word),
                 new NameValuePair("src",langIn),

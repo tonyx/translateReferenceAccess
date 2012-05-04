@@ -15,9 +15,30 @@ public class TranslateReferenceContentFilter implements ContentFilter {
         String[] splitted = s.split("<span class=\"BAB_CPPOSStyle\">");
         String toReturn = "";
         for (int i=1;i<splitted.length;i++) {
-            toReturn+= splitted[i].replace("</span>","").replaceAll("<br.*\n","").replaceAll("<div.*\n","").replaceAll("</div>.*\n","").replaceAll("\n","");
-            toReturn+="    -     ";
+            String translation  = splitted[i].replace("</span>","");
+            translation = translation.replaceAll("<br.*\n","").replaceAll("<div.*\n","");
+            translation =  translation.replace("</span>","");
+            translation = translation.replaceAll("<br.*\n","");
+            translation = translation.replaceAll("<div.*\n","");
+            translation = translation.replaceAll("</div>.*\n","");
+            translation = translation.replaceAll("\n"," - ");
+
+            translation = translation.split("<script")[0];
+
+            toReturn+=translation;
+            toReturn+=" - ";
+
         }
-        return toReturn.split("</div>")[0]+"\n";
+
+        toReturn =  toReturn.split("</div>")[0]+"\n";
+
+        if (!toReturn.replaceAll(" ","" ).replaceAll("\n","").replaceAll("\r","").equals(""))
+            return toReturn;
+
+        return filterByTranslateTxtTag(s);
+    }
+
+    public String filterByTranslateTxtTag(String content) {
+        return content.split("<div class=\"translateTxt\" >")[1].split("</div>")[0].replaceAll("\n","").replaceAll("\r","").replaceAll("^ *","").replaceAll(" *$","");
     }
 }

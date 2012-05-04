@@ -187,7 +187,11 @@
     <delete dir="${translatereference.output.dir}"/>
     <delete dir="${translatereference.testoutput.dir}"/>
   </target>
-  
+
+    <target name="createJar" depends="build.modules">
+        <jar basedir="${translatereference.output.dir}" destfile="translateReferenceSNAPSHOT.jar">
+        </jar>
+    </target>
   <target name="init" description="Build initialization">
     <!-- Perform any build initialization in this target -->
   </target>

@@ -12,15 +12,18 @@ import org.tonyx.TranslateReferenceContentFilter;
  * To change this template use File | Settings | File Templates.
  */
 public class TestTranslateReference {
-    @Test
-    public void filterShouldContaintTheHello() {
-        // given
-        String content = new TranslateReferenceStubbedContent().getContent();
 
-        // when
-        String filteredContent = new TranslateReferenceContentFilter().filter(content);
+    @Test
+    public void testContainsTheWords() {
+        // given
+        StubTemplateOriginalPage originalPage = new StubTemplateOriginalPage(" salute, ciao; ehi; (Tel) pronto; ohibò\n");
+
+        // when            Браво
+        String html = originalPage.getHtml();
+        String filteredContent = new TranslateReferenceContentFilter().filter(html);
 
         // then
-        Assert.assertTrue(filteredContent.contains("salve, salute"));
+        //Assert.assertEquals("",filteredContent);
+        Assert.assertTrue(filteredContent.contains("salute, ciao"));
     }
 }
