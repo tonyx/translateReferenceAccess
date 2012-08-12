@@ -44,7 +44,7 @@ public class TranslateReferencePluginTest {
                 put("translateDic",new GenericDictionary("translateDic",new TranslateReferenceProvider(),new TranslateReferenceContentFilter()));
             }
         };
-        translator = new Translator(mapDictionaries,browserActivator,ios);
+    //    translator = new Translator(mapDictionaries,browserActivator,ios);
     }
 
     @Test
@@ -150,6 +150,7 @@ public class TranslateReferencePluginTest {
         // then
         verify(ios).output(argThat(htmlTags));
     }
+
 
     @Test
     public void shouldListSupportedLanguages() throws Exception {

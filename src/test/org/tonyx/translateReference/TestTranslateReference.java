@@ -20,7 +20,7 @@ public class TestTranslateReference {
 
         // when            Браво
         String html = originalPage.getHtml();
-        String filteredContent = new TranslateReferenceContentFilter().filter(html);
+        String filteredContent = new TranslateReferenceContentFilter().filter(html,"","");
 
         // then
         //Assert.assertEquals("",filteredContent);

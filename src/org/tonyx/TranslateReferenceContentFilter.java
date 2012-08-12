@@ -11,7 +11,7 @@ import org.tonyxzt.language.core.ContentFilter;
  */
 public class TranslateReferenceContentFilter implements ContentFilter {
     @Override
-    public String filter(String s) {
+    public String filter(String s, String langIn, String langOut) {
         String[] splitted = s.split("<span class=\"BAB_CPPOSStyle\">");
         String toReturn = "";
         for (int i=1;i<splitted.length;i++) {
